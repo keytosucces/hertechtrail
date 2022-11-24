@@ -1,0 +1,14 @@
+header > div > h3 {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(74, 35, 35);
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.imgnm {
+    font-size: medium;
+    font-weight: bold;
+    color: darkslategray;
+    text-align: center;
+}
